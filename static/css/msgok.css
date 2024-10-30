@@ -1,0 +1,58 @@
+.msgok-install {
+	border: 1px solid #2767bb;
+	padding: 20px;
+	margin-top: 15px;
+}
+
+.msgok-button {
+	border: 1px solid #2767bb;
+	background-color: transparent;
+	padding: 8px;
+	color: #2767bb;
+	cursor: pointer;
+	border-radius: 5px;
+	display: inline-block;
+}
+
+.msgok-button:hover {
+	color: #1e5091;
+	border-color: #1e5091;
+}
+
+.msgok-button-fill {
+	background-color: #2767bb;
+	text-decoration: none;
+	color: white;
+}
+
+.msgok-button-fill:hover {
+	color: white;
+	background-color: #20569b;
+    border-color: #1e5091;
+}
+
+.msgok-mt-sm {
+	margin-top: 20px;
+}
+
+.msgok-mt-md {
+	margin-top: 30px;
+}
+
+.msgok-ul {
+	list-style-type: circle;
+	list-style-position: inside;
+}
+
+.msgok-logo {
+	margin-top: 30px;
+	margin-bottom: 10px;
+}
+
+.msgok-lang-wrap h2 {
+	margin-top: 25px;
+}
+
+.msgok-table {
+	max-width: 700px;
+}

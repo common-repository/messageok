@@ -1,0 +1,211 @@
+# Copyright (C) 2023 MessageOk
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: MessageOk 1.0.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/msgok\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-05-26T11:45:42+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: messageok\n"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+msgid "MessageOk"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.messageok.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "MessageOk plugin for WooCommerce"
+msgstr ""
+
+#: includes/class.api.php:521
+msgid "Zákazník změnil stav objednávky z %s na %s pomocí MessageOk"
+msgstr ""
+
+#: includes/class.install.php:118
+msgid "Chyba při komunikaci s instalačním serverem. Zkuste to prosím znovu později."
+msgstr ""
+
+#: includes/class.install.php:142
+msgid "Chyba při zakládání účtu v MessageOk. Kontaktujte nás prosím na info@messageok.com"
+msgstr ""
+
+#: views/install.php:3
+msgid "Instalace"
+msgstr ""
+
+#: views/install.php:19
+#: views/main.php:93
+msgid "Souhlasím s předáním dat společnosti <b>MessageOk s.r.o.</b> a jejich <a href=\"https://messageok.com/vop.pdf\" target=\"_blank\">Obchodními podmínkami</a> a <a href=\"https://messageok.com/os.pdf\" target=\"_blank\">Zásadami ochrany osobních údajů</a>."
+msgstr ""
+
+#: views/install.php:24
+msgid "Zvolte jazyk první instalace:"
+msgstr ""
+
+#: views/install.php:43
+msgid "Později budete moci založit MessageOk i pro další jazyky."
+msgstr ""
+
+#: views/install.php:47
+msgid "E-mail pro vytvoření účtu na MessageOk (pokud již máte účet, zadejte zde stejný email, jako máte na MessageOk.com):"
+msgstr ""
+
+#: views/install.php:58
+#: views/main.php:120
+msgid "Propojit aplikaci"
+msgstr ""
+
+#: views/install.php:62
+msgid "Aplikaci budou předány následující údaje:"
+msgstr ""
+
+#: views/install.php:66
+msgid "aktuální adresa webu"
+msgstr ""
+
+#: views/install.php:67
+msgid "seznam aktivních jazyků"
+msgstr ""
+
+#: views/install.php:68
+msgid "kontaktní údaje administrátora"
+msgstr ""
+
+#: views/integrations.php:4
+msgid "Propojení dat"
+msgstr ""
+
+#: views/integrations.php:7
+msgid "Některá rozšíření se nám podaří propojit automaticky. U něčeho potřebujeme Vaši pomoc. Více naleznete v <a href=\"https://messageok.com/info/kategorie/zaciname/\" target=\"_blank\">nápovědě.</a>"
+msgstr ""
+
+#: views/integrations.php:14
+msgid "Funkce"
+msgstr ""
+
+#: views/integrations.php:15
+msgid "Stav propojení"
+msgstr ""
+
+#: views/integrations.php:16
+msgid "Výběr hodnoty"
+msgstr ""
+
+#: views/integrations.php:17
+msgid "Ruční nastavení (pokročilé)"
+msgstr ""
+
+#: views/integrations.php:28
+msgid "Číslo objednávky"
+msgstr ""
+
+#: views/integrations.php:33
+#: views/integrations.php:70
+#: views/integrations.php:107
+msgid "nastaveno"
+msgstr ""
+
+#: views/integrations.php:35
+#: views/integrations.php:72
+#: views/integrations.php:109
+msgid "nenastaveno"
+msgstr ""
+
+#: views/integrations.php:41
+msgid "ID objednávky"
+msgstr ""
+
+#: views/integrations.php:42
+msgid "(vyplnit vlastní)"
+msgstr ""
+
+#: views/integrations.php:50
+#: views/integrations.php:87
+#: views/integrations.php:124
+msgid "např."
+msgstr ""
+
+#: views/integrations.php:65
+msgid "Sledování zásilek"
+msgstr ""
+
+#: views/integrations.php:102
+msgid "Faktury"
+msgstr ""
+
+#: views/integrations.php:141
+msgid "Uložit nastavení propojení"
+msgstr ""
+
+#: views/main.php:18
+msgid "+ Přidat jazyk"
+msgstr ""
+
+#: views/main.php:29
+msgid "API endpoint"
+msgstr ""
+
+#: views/main.php:38
+msgid "Vložení do stránky"
+msgstr ""
+
+#: views/main.php:42
+msgid "Nastavit umístění"
+msgstr ""
+
+#: views/main.php:49
+msgid "Správa scénářů"
+msgstr ""
+
+#: views/main.php:60
+msgid "Upravit"
+msgstr ""
+
+#: views/main.php:67
+msgid "Zatím nemáte žádné scénáře."
+msgstr ""
+
+#: views/main.php:73
+msgid "Otevřít na webu MessageOk"
+msgstr ""
+
+#: views/main.php:87
+msgid "Instalace nového jazyka"
+msgstr ""
+
+#: views/main.php:98
+msgid "Zvolte další jazyk instalace:"
+msgstr ""
+
+#: views/settings.php:14
+msgid "Instalace byla úspěšná"
+msgstr ""
+
+#: views/settings.php:20
+msgid "Založili jsme Vám účet v aplikaci MessageOk.com"
+msgstr ""
+
+#: views/settings.php:24
+msgid "Je nutné provést prvotní nastavení scénářů."
+msgstr ""
+
+#: views/settings.php:29
+msgid "Nastavit aplikaci"
+msgstr ""
+
+#: views/integrations.php:51
+#: views/integrations.php:89
+#: views/integrations.php:127
+msgid "(serializovaná data)"
+msgstr ""
